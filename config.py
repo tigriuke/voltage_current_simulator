@@ -4,7 +4,7 @@
 # ─── Sectores y voltajes nominales ───────────────────────────────────────────
 SECTORES = {
     "melendez":   120.0,
-    "caney":      120.0,
+    "caney":      130.0,
     "industrial": 110.0,
 }
 
